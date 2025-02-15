@@ -12,8 +12,8 @@ Let’s build something amazing! 🚀
     <a href="https://www.linkedin.com/in/zaki-ramadhan/" target="_blank">
         <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>  
-    <a href="mailto:zakiram4dhan@gmail.com">
-        <img alt="Gmail" title="Send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zakiram4dhan@gmail.com" target="_blank">
+      <img alt="Gmail" title="Send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://www.instagram.com/zakiram4dhan" target="_blank">
         <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
