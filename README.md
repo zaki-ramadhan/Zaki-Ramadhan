@@ -1,10 +1,13 @@
-# <a href="https://github.com/zaki-ramadhan/"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></a>🌚 Hello! I'm Zaki Ramadhan
+# <a href="https://github.com/zaki-ramadhan/"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></a>🌚 Hey! I'm Zaki
 
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=30&duration=3300&pause=1000&color=FFCA28&width=900&lines=Passionate+about+web+development+%26+UI%2FUX+design)](https://git.io/typing-svg)
 
-**`Web Developer | UI/UX Designer | Tech Enthusiast`**
+
+**`</> Web Developer | UI/UX Designer | Tech Enthusiast`** 
+
+<img align="right" height="270px" width="450px" alt="image" src="[![Pas-Foto-Office-Version-Expanded-Darker.jpg](https://i.postimg.cc/L8z781QW/Pas-Foto-Office-Version-Expanded-Darker.jpg)](https://postimg.cc/4Yxw8mgv)" />
 
 I'm a web developer and UI/UX designer, passionate about crafting intuitive and visually appealing digital experiences. I specialize in building websites from the ground up—from ideation and design to development and optimization—with a strong focus on usability and performance.
 
@@ -49,15 +52,33 @@ Let’s build something amazing! 🚀
 <br />
 <br />
 
-### 🚀 GitHub Highlights  
+<details open>
+  <summary><h2>✍🏽 My Latest Projects </h2></summary>
+  <p algin="left">
+    <a href="https://github.com/zaki-ramadhan/katering-ibu"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=katering-ibu&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/zaki-ramadhan/tubes_pbo_kel5"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=tubes_pbo_kel5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  </p>
+</details>
 
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=zaki-ramadhan&show_icons=true&theme=gruvbox" alt="Zaki Ramadhan's GitHub Stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaki-ramadhan&layout=compact&theme=gruvbox" alt="Most Used Languages"/>
-</p>
 
-🔥 ***Coding streak:***  
-<p align="left">
-  <img title="🔥 Streak Stats" alt="Zaki Ramadhan's streak"
-    src="https://streak-stats.demolab.com/?user=zaki-ramadhan&theme=gruvbox&hide_border=false"/>
-</p>
+<details open>
+<summary><h2>📊 Stats and Activity</h2></summary> 
+  
+  #### 🔥 Streak Stats
+  
+  <p align="left">
+    <img title="🔥 Streak Stats" alt="Zaki Ramadhan's streak"
+      src="https://streak-stats.demolab.com/?user=zaki-ramadhan&theme=gruvbox&hide_border=false"/>
+  </p>
+  
+  #### 💻 GitHub Profile Stats
+  <p align="left">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=zaki-ramadhan&show_icons=true&theme=gruvbox" alt="Zaki Ramadhan's GitHub Stats"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaki-ramadhan&layout=compact&theme=gruvbox" alt="Most Used Languages"/>
+  </p>
+  
+Note: The top languages only indicate the languages most used in my public code and do not reflect my experience or skill level.
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Zaki Ramadhan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=zaki-ramadhan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+</details>
