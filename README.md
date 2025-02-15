@@ -44,9 +44,15 @@ Let’s build something amazing! 🚀
 <br />
 <br />
 
-### 📊 Stats
+### 🚀 GitHub Highlights  
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=zaki-ramadhan&show_icons=true&theme=gruvbox" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaki-Ramadhan&layout=compact&theme=gruvbox" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=zaki-ramadhan&show_icons=true&theme=gruvbox" alt="Zaki Ramadhan's GitHub Stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaki-ramadhan&layout=compact&theme=gruvbox" alt="Most Used Languages"/>
+</p>
+
+🔥 ***Coding streak:***  
+<p align="left">
+  <img title="🔥 Streak Stats" alt="Zaki Ramadhan's streak"
+    src="https://streak-stats.demolab.com/?user=zaki-ramadhan&theme=gruvbox&hide_border=false"/>
 </p>
