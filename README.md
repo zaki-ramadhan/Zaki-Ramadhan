@@ -1,5 +1,9 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />🌚 Hello! I'm Zaki Ramadhan
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=30&duration=4000&pause=1000&color=FFCA28&width=900&lines=Passionate+about+web+development+%26+UI%2FUX+design)](https://git.io/typing-svg)\
+# <a href="https://github.com/zaki-ramadhan/"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></a>🌚 Hello! I'm Zaki Ramadhan
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=30&duration=3300&pause=1000&color=FFCA28&width=900&lines=Passionate+about+web+development+%26+UI%2FUX+design)](https://git.io/typing-svg)
+
 **`Web Developer | UI/UX Designer | Tech Enthusiast`**
 
 I'm a web developer and UI/UX designer, passionate about crafting intuitive and visually appealing digital experiences. I specialize in building websites from the ground up—from ideation and design to development and optimization—with a strong focus on usability and performance.
@@ -8,21 +12,24 @@ With a keen eye for detail and a problem-solving mindset, I strive to create sea
 
 Let’s build something amazing! 🚀
 
-  <p align="left">
-    <a href="https://www.linkedin.com/in/zaki-ramadhan/" target="_blank">
-        <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>  
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zakiram4dhan@gmail.com" target="_blank">
-      <img alt="Gmail" title="Send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://www.instagram.com/zaki_ramadhannn" target="_blank">
-        <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/zaki-ramadhan/" target="_blank">
+      <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>  
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zakiram4dhan@gmail.com" target="_blank">
+    <img alt="Gmail" title="Send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/zaki_ramadhannn" target="_blank">
+      <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/28658705/devz" target="_blank">
+      <img alt="Stack Overflow" title="Visit my Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  </a>
 </p>
 
 
----
 
+---
 ### 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
