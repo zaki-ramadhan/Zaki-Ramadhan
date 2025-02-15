@@ -1,4 +1,4 @@
-# 🌚 Zaki Ramadhan
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />🌚 I'm Zaki Ramadhan
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=30&duration=4000&pause=1000&color=FFCA28&width=900&lines=Passionate+about+web+development+%26+UI%2FUX+design)](https://git.io/typing-svg)\
 **`Web Developer | UI/UX Designer | Tech Enthusiast`**
 
