@@ -50,9 +50,3 @@ Let’s build something amazing! 🚀
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=zaki-ramadhan&show_icons=true&theme=gruvbox" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaki-Ramadhan&layout=compact&theme=gruvbox" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zaki-Ramadhan/Zaki-Ramadhan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zaki-Ramadhan/Zaki-Ramadhan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
-</picture>
