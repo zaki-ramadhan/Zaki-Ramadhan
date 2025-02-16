@@ -7,7 +7,7 @@
 
 <a href="https://github.com/zaki-ramadhan/"><img align="left" height="180px" width="180px" alt="pfp" src="https://i.postimg.cc/pTNJhG9Y/me-cropped.jpg" /></a>
 
-I'm a web developer and UI/UX designer, passionate about crafting intuitive and visually appealing digital experiences. I specialize in building websites from the ground up—from ideation and design to development and optimization—with a strong focus on usability and performance.
+I'm a junior web developer and UI/UX designer, passionate about crafting intuitive and visually appealing digital experiences. I specialize in building websites from the ground up—from ideation and design to development and optimization—with a strong focus on usability and performance.
 
 With a keen eye for detail and a problem-solving mindset, I strive to create seamless interactions that bridge design and technology. Constantly learning and evolving, I'm dedicated to pushing the boundaries of web development and user experience.
 
