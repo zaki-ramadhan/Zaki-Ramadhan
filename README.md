@@ -5,7 +5,7 @@
 <br/>
 **`</> Web Developer | UI/UX Designer | Tech Enthusiast`** 
 
-<a href="https://github.com/zaki-ramadhan/"><img align="left" height="178px" width="178px" alt="pfp" src="https://i.postimg.cc/Y9kmBJGV/me-cropped-smooth-edge.png" /></a>
+<a href="https://github.com/zaki-ramadhan/"><img align="left" height="178px" width="178px" alt="pfp" src="https://i.postimg.cc/FzPZR02j/me-cropped-smooth-edge.png" /></a>
 
 I'm a junior web developer and UI/UX designer, passionate about crafting intuitive and visually appealing digital experiences. I specialize in building websites from the ground up—from ideation and design to development and optimization—with a strong focus on usability and performance.
 
