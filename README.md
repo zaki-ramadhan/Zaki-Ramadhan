@@ -7,7 +7,7 @@
 
 **`</> Web Developer | UI/UX Designer | Tech Enthusiast`** 
 
-<img align="right" height="270px" width="450px" alt="image" src="[![Pas-Foto-Office-Version-Expanded-Darker.jpg](https://i.postimg.cc/L8z781QW/Pas-Foto-Office-Version-Expanded-Darker.jpg)](https://postimg.cc/4Yxw8mgv)" />
+<img align="left" height="195px" width="195px" alt="pfp" src="https://i.postimg.cc/pTNJhG9Y/me-cropped.jpg" />
 
 I'm a web developer and UI/UX designer, passionate about crafting intuitive and visually appealing digital experiences. I specialize in building websites from the ground up—from ideation and design to development and optimization—with a strong focus on usability and performance.
 
