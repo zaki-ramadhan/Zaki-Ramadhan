@@ -65,18 +65,18 @@ Let’s build something amazing! 🚀
   #### 🔥 Streak Stats
   
   <p align="left">
-    <img title="🔥 Streak Stats" alt="Zaki Ramadhan's streak"
+    <img title="🔥 Streak Stats" alt="My streak"
       src="https://streak-stats.demolab.com/?user=zaki-ramadhan&theme=gruvbox&hide_border=false"/>
   </p>
   
   #### 💻 GitHub Profile Stats
   <p align="left">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=zaki-ramadhan&show_icons=true&theme=gruvbox" alt="Zaki Ramadhan's GitHub Stats"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=zaki-ramadhan&show_icons=true&theme=gruvbox" alt="My GitHub Stats"/>
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaki-ramadhan&layout=compact&theme=gruvbox" alt="Most Used Languages"/>
   </p>
   
 Note: The top languages only indicate the languages most used in my public code and do not reflect my experience or skill level.
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Zaki Ramadhan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=zaki-ramadhan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=zaki-ramadhan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
