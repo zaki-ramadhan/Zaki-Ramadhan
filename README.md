@@ -78,6 +78,7 @@ Let’s build something amazing! 🚀
   
 Note: The top languages only indicate the languages most used in my public code and do not reflect my experience or skill level.
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=zaki-ramadhan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <!-- link og : https://github.com/ashutosh00710/github-readme-activity-graph-->
+  <a href="https://github.com/zaki-ramadhan"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=zaki-ramadhan&bg_color=282828&color=F8D866&line=F8D866&point=FFFFFF&hide_border=true" /></a>
 
 </details>
