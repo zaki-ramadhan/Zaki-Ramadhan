@@ -53,9 +53,9 @@ Let’s build something amazing! 🚀
 <details open>
   <summary><h2>✍🏽 My Latest Projects </h2></summary>
   <p algin="left">
-    <a href="https://github.com/zaki-ramadhan/katering-ibu"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=katering-ibu&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
-    <a href="https://github.com/zaki-ramadhan/tubes_pbo_kel5"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=tubes_pbo_kel5&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
-    <a href="https://github.com/zaki-ramadhan/zaki-portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=zaki-portfolio&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
+    <a href="https://github.com/zaki-ramadhan/katering-ibu" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=katering-ibu&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
+    <a href="https://github.com/zaki-ramadhan/tubes_pbo_kel5" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=tubes_pbo_kel5&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
+    <a href="https://github.com/zaki-ramadhan/zaki-portfolio" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=zaki-portfolio&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
   </p>
 </details>
 
