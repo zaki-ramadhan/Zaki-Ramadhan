@@ -14,16 +14,16 @@ With a keen eye for detail and a problem-solving mindset, I strive to create sea
 Let’s build something amazing! 🚀
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/zaki-ramadhan/" target="_blank">
+  <a href="https://www.linkedin.com/in/zaki-ramadhan/">
       <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>  
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zakiram4dhan@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zakiram4dhan@gmail.com">
     <img alt="Gmail" title="Send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/zaki_ramadhannn" target="_blank">
+  <a href="https://www.instagram.com/zaki_ramadhannn">
       <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://stackoverflow.com/users/28658705/devz" target="_blank">
+  <a href="https://stackoverflow.com/users/28658705/devz">
       <img alt="Stack Overflow" title="Visit my Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   </a>
 </p>
@@ -53,9 +53,9 @@ Let’s build something amazing! 🚀
 <details open>
   <summary><h2>✍🏽 My Latest Projects </h2></summary>
   <p algin="left">
-    <a href="https://github.com/zaki-ramadhan/katering-ibu" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=katering-ibu&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
-    <a href="https://github.com/zaki-ramadhan/tubes_pbo_kel5" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=tubes_pbo_kel5&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
-    <a href="https://github.com/zaki-ramadhan/zaki-portfolio" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=zaki-portfolio&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
+    <a href="https://github.com/zaki-ramadhan/katering-ibu"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=katering-ibu&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
+    <a href="https://github.com/zaki-ramadhan/tubes_pbo_kel5"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=tubes_pbo_kel5&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
+    <a href="https://github.com/zaki-ramadhan/zaki-portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=zaki-portfolio&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
   </p>
 </details>
 
