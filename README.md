@@ -34,71 +34,71 @@ Let’s build something amazing! 🚀
 <table>
   <tr>
     <td align="center">
-      <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+      <a href="https://developer.mozilla.org/docs/Web/HTML">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="32px" />
       </a>
     </td>
     <td align="center">
-      <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+      <a href="https://developer.mozilla.org/docs/Web/CSS">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="32px" />
       </a>
     </td>
     <td align="center">
-      <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+      <a href="https://developer.mozilla.org/docs/Web/JavaScript" >
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="32px" />
     </td>
     <td align="center">
-      <a href="https://getbootstrap.com/" target="_blank">
+      <a href="https://getbootstrap.com/" >
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35px" />
     </td>
     <td align="center">
-      <a href="https://tailwindcss.com/" target="_blank">
+      <a href="https://tailwindcss.com/" >
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="38px" />
     </td>
     <td align="center">
-      <a href="https://sass-lang.com/" target="_blank">
+      <a href="https://sass-lang.com/" >
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35px" />
     </td>
     <td align="center">
-      <a href="https://jquery.com/" target="_blank">
+      <a href="https://jquery.com/" >
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="32px" />
     </td>
     <td align="center">
-      <a href="https://react.dev/" target="_blank">
+      <a href="https://react.dev/" >
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35px" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.php.net/" target="_blank">
+      <a href="https://www.php.net/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="38px" />
     </td>
     <td align="center">
-      <a href="https://laravel.com/" target="_blank">
+      <a href="https://laravel.com/">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="35px" />
     </td>
     <td align="center">
-      <a href="https://www.mysql.com/" target="_blank">
+      <a href="https://www.mysql.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35px" />
     </td>
     <td align="center">
-      <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+      <a href="https://flutter.dev/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35px" />
     </td>
     <td align="center">
-      <a href="https://www.npmjs.com/" target="_blank">
+      <a href="https://www.npmjs.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40px" />
     </td>
     <td align="center">
-      <a href="https://git-scm.com/" target="_blank">
+      <a href="https://git-scm.com/" >
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35px" />
     </td>
     <td align="center">
-      <a href="https://github.com/" target="_blank">
+      <a href="https://github.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35px" />
     </td>
     <td align="center">
-      <a href="https://www.figma.com/" target="_blank">
+      <a href="https://www.figma.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32px" />
     </td>
   </tr>
