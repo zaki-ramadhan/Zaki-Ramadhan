@@ -70,7 +70,7 @@ Let’s build something amazing! 🚀
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.php.net/>
+      <a href="https://www.php.net/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="38px" />
     </td>
     <td align="center">
