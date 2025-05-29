@@ -13,20 +13,18 @@ With a keen eye for detail and a problem-solving mindset, I strive to create sea
 
 Let’s build something amazing! 🚀
 
-<p align="left">
   <a href="https://www.linkedin.com/in/zaki-ramadhan/">
       <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>  
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zakiram4dhan@gmail.com">
     <img alt="Gmail" title="Send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/zaki_ramadhannn">
+  <a href="https://www.instagram.com/zqramadhan_">
       <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://stackoverflow.com/users/28658705/devz">
+<!--   <a href="https://stackoverflow.com/users/28658705/devz">
       <img alt="Stack Overflow" title="Visit my Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-  </a>
-</p>
+  </a> -->
 
 ---
 ### ⚒️ Technologies I Use
@@ -67,8 +65,17 @@ Let’s build something amazing! 🚀
       <a href="https://react.dev/" >
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35px" />
     </td>
+    <td align="center">
+      <a href="https://www.npmjs.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40px" />
+    </td>
   </tr>
   <tr>
+    <td align="center">
+      <a href="https://nodejs.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35px" />
+      </a>
+    </td>
     <td align="center">
       <a href="https://www.php.net/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="38px" />
@@ -82,12 +89,13 @@ Let’s build something amazing! 🚀
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35px" />
     </td>
     <td align="center">
-      <a href="https://flutter.dev/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35px" />
+      <a href="https://dart.dev/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35px" />
+      </a>
     </td>
     <td align="center">
-      <a href="https://www.npmjs.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40px" />
+      <a href="https://flutter.dev/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35px" />
     </td>
     <td align="center">
       <a href="https://git-scm.com/" >
