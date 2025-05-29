@@ -47,27 +47,33 @@ Let’s build something amazing! 🚀
     </td>
     <td align="center">
       <a href="https://getbootstrap.com/" >
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35px" />
+      </a>
     </td>
     <td align="center">
       <a href="https://tailwindcss.com/" >
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="38px" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="38px" />
+      </a>
     </td>
     <td align="center">
       <a href="https://sass-lang.com/" >
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35px" />
+      </a>
     </td>
     <td align="center">
       <a href="https://jquery.com/" >
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="32px" />
+      </a>
     </td>
     <td align="center">
       <a href="https://react.dev/" >
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35px" />
+      </a>
     </td>
     <td align="center">
       <a href="https://www.npmjs.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40px" />
+      </a>
     </td>
   </tr>
   <tr>
@@ -78,15 +84,18 @@ Let’s build something amazing! 🚀
     </td>
     <td align="center">
       <a href="https://www.php.net/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="38px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="38px" />
+      </a>
     </td>
     <td align="center">
       <a href="https://laravel.com/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="35px" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="35px" />
+      </a>
     </td>
     <td align="center">
       <a href="https://www.mysql.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35px" />
+      </a>
     </td>
     <td align="center">
       <a href="https://dart.dev/">
@@ -95,19 +104,23 @@ Let’s build something amazing! 🚀
     </td>
     <td align="center">
       <a href="https://flutter.dev/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35px" />
+      </a>
     </td>
     <td align="center">
       <a href="https://git-scm.com/" >
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35px" />
+      </a>
     </td>
     <td align="center">
       <a href="https://github.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35px" />
+      </a>
     </td>
     <td align="center">
       <a href="https://www.figma.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32px" />
+      </a>
     </td>
   </tr>
 </table>
