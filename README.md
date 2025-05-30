@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&duration=2000&pause=200&color=F7D600&multiline=true&width=435&height=68&lines=Code.+Design.+Repeat.+;Let%E2%80%99s+create+something+awesome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&duration=2000&pause=600&color=F7D600&multiline=true&width=435&height=68&lines=Code.+Design.+Repeat.+;Let%E2%80%99s+create+something+awesome!)](https://git.io/typing-svg)
 
 **`</> Web Developer | UI/UX Designer | Tech Enthusiast`** 
 
