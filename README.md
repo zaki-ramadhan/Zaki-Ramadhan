@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&duration=2000&pause=600&color=F7D600&multiline=true&width=435&height=68&lines=Code.+Design.+Repeat.+;Let%E2%80%99s+create+something+awesome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&duration=2000&pause=600&color=F7D600&multiline=true&width=435&height=68&lines=Code.+Design.+Repeat.+;Let%E2%80%99s+create+something+awesome!)](#)
 
 **`</> Web Developer | UI/UX Designer | Tech Enthusiast`** 
 
-<a href="https://github.com/zaki-ramadhan/"><img align="left" width="155px" alt="pfp" src="https://i.postimg.cc/Ghv3tGkX/image-1.png" /></a>
+<a href="#"><img align="left" width="155px" alt="pfp" src="https://i.postimg.cc/Ghv3tGkX/image-1.png" /></a>
 
 I’m a passionate Web Developer and UI/UX Designer with a love for building intuitive and visually compelling digital experiences. I thrive on transforming ideas into real products, focusing on both clean code and delightful user journeys.
 
@@ -138,20 +138,24 @@ Excited to collaborate and bring innovative ideas to life—let’s build someth
 <summary><h2>📊 Stats and Activity</h2></summary>
   
   #### 🔥 Streak Stats
-  <p align="left">
-    <img title="🔥 Streak Stats" alt="My streak"
-      src="https://streak-stats.demolab.com/?user=zaki-ramadhan&theme=gruvbox&hide_border=false"/>
-  </p>
+  <a href = "#">
+    <p align="left">
+      <img title="🔥 Streak Stats" alt="My streak"
+        src="https://streak-stats.demolab.com/?user=zaki-ramadhan&theme=gruvbox&hide_border=false"/>
+    </p>
+  </a>
   
   #### 💻 GitHub Profile Stats
-  <p align="left">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=zaki-ramadhan&show_icons=true&theme=gruvbox" alt="My GitHub Stats"/>
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaki-ramadhan&layout=compact&theme=gruvbox" alt="Most Used Languages"/>
-  </p>
+  <a href = "#">
+    <p align="left">
+      <img height="150" src="https://github-readme-stats.vercel.app/api?username=zaki-ramadhan&show_icons=true&theme=gruvbox" alt="My GitHub Stats"/>
+      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaki-ramadhan&layout=compact&theme=gruvbox" alt="Most Used Languages"/>
+    </p>
+  </a>
   
 Note: “Top languages” reflect my public projects, not necessarily my full skill set.
 
   <!-- link og : https://github.com/ashutosh00710/github-readme-activity-graph-->
-  <a href="https://github.com/zaki-ramadhan"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=zaki-ramadhan&bg_color=282828&color=F8D866&line=F8D866&point=FFFFFF&hide_border=true" /></a>
+  <a href="#"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=zaki-ramadhan&bg_color=282828&color=F8D866&line=F8D866&point=FFFFFF&hide_border=true" /></a>
 
 </details>
