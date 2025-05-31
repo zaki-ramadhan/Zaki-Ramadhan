@@ -127,9 +127,9 @@ Excited to collaborate and bring innovative ideas to life—let’s build someth
 <details open>
   <summary><h2>✍🏽 My Latest Projects </h2></summary>
   <p algin="left">
-    <a href="https://github.com/zaki-ramadhan/katering-ibu?tab=readme-ov-file#katering-ibu-a-laravel-based-catering-website"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=katering-ibu&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
-    <a href="https://github.com/zaki-ramadhan/katering-ibu-mobile-app?tab=readme-ov-file#katering_ibu_m_flutter"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=katering-ibu-mobile-app&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
-    <a href="https://github.com/zaki-ramadhan/zaki-portfolio?tab=readme-ov-file#-my-portfolio"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=zaki-portfolio&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
+    <a href="https://github.com/zaki-ramadhan/katering-ibu-mobile-app?tab=readme-ov-file#katering_ibu_m_flutter"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=katering-ibu-mobile-app&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
+    <a href="https://github.com/zaki-ramadhan/katering-ibu?tab=readme-ov-file#katering-ibu-a-laravel-based-catering-website"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=katering-ibu&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
+    <a href="https://github.com/zaki-ramadhan/zaki-portfolio?tab=readme-ov-file#-my-portfolio"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=zaki-portfolio&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
   </p>
 </details>
 
