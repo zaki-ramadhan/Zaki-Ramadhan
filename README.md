@@ -41,25 +41,25 @@ Excited to collaborate and bring innovative ideas to life—let’s build someth
   </a>
 </p>
 
-<br />
+<br>
 
-<details align="center" open>
-  <summary><h2>✍🏽 My Latest Projects </h2></summary>
-  <p algin="center">
-    <a href="https://github.com/akbarryyan/rancanginid"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=akbarryyan&repo=rancanginid&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
-    <a href="https://github.com/zaki-ramadhan/OrtuPintar-app"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=OrtuPintar-app&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
-    <a href="https://github.com/zaki-ramadhan/webstore"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=webstore&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
-  </p>
-</details>
+<h3 align="center">✍🏽 My Latest Projects </h3>
+<p align="center">
+  <a href="https://github.com/akbarryyan/rancanginid"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=akbarryyan&repo=rancanginid&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
+  <a href="https://github.com/zaki-ramadhan/OrtuPintar-app"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=OrtuPintar-app&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
+  <a href="https://github.com/zaki-ramadhan/webstore"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=webstore&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
+</p>
 
-<details align="center" open>
-<summary align="center"><h2>📊 Stats and Activity</h2></summary>
-<h3 align="center"> 🔥 Streak Stats </h3>
+<br>
+
+<h3 align="center">🔥 Streak Stats</h3>
 <a href = "#">
   <p align="center">
     <img title="🔥 Streak Stats" alt="My streak" src="https://streak-stats.demolab.com/?user=zaki-ramadhan&theme=gruvbox&hide_border=false"/>
   </p>
 </a>
+
+<br>
 
 <h3 align="center"> 💻 GitHub Profile Stats </h3>
 <a href = "#">
@@ -69,8 +69,8 @@ Excited to collaborate and bring innovative ideas to life—let’s build someth
   </p>
 </a>
 
-<p align="center">Note: “Top languages” reflect my public projects, not necessarily my full skill set.</p><br><br>
+<p align="center" style="color: grey">Note: “Top languages” reflect my public projects, not necessarily my full skill set.</p><br><br>
+
+<br>
 
 <a href="#" align="center"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=zaki-ramadhan&bg_color=282828&color=F8D866&line=F8D866&point=FFFFFF&hide_border=true" /></a>
-
-</details>
