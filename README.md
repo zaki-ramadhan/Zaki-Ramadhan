@@ -21,15 +21,21 @@ Excited to collaborate and bring innovative ideas to life—let’s build someth
 </a>
 
 ---
-### ⚒️ Technologies I Use
+<h3 align="center">⚒️ Technologies I Use</h3><br>
 
-<p align="left">
+<p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,sass,jquery,php,laravel,dart,flutter,mysql"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,sass"/>
   </a>
 </p>
 
-<p align="left">
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=jquery,php,laravel,dart,flutter,mysql"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,npm,vite" alt="Git" />
   </a>
@@ -37,35 +43,34 @@ Excited to collaborate and bring innovative ideas to life—let’s build someth
 
 <br />
 
-<details open>
+<details align="center" open>
   <summary><h2>✍🏽 My Latest Projects </h2></summary>
-  <p algin="left">
+  <p algin="center">
     <a href="https://github.com/akbarryyan/rancanginid"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=akbarryyan&repo=rancanginid&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
     <a href="https://github.com/zaki-ramadhan/OrtuPintar-app"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=OrtuPintar-app&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
     <a href="https://github.com/zaki-ramadhan/webstore"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=webstore&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
   </p>
 </details>
 
-<details open>
-<summary><h2>📊 Stats and Activity</h2></summary>
-
-#### 🔥 Streak Stats
+<details align="center" open>
+<summary align="center"><h2>📊 Stats and Activity</h2></summary>
+<h3 align="center"> 🔥 Streak Stats </h3>
 <a href = "#">
-  <p align="left">
+  <p align="center">
     <img title="🔥 Streak Stats" alt="My streak" src="https://streak-stats.demolab.com/?user=zaki-ramadhan&theme=gruvbox&hide_border=false"/>
   </p>
 </a>
 
-#### 💻 GitHub Profile Stats
+<h3 align="center"> 💻 GitHub Profile Stats </h3>
 <a href = "#">
-  <p align="left">
+  <p align="center">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=zaki-ramadhan&show_icons=true&theme=gruvbox" alt="My GitHub Stats"/>
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaki-ramadhan&layout=compact&theme=gruvbox" alt="Most Used Languages"/>
   </p>
 </a>
 
-Note: “Top languages” reflect my public projects, not necessarily my full skill set.
+<p align="center">Note: “Top languages” reflect my public projects, not necessarily my full skill set.</p><br><br>
 
-<a href="#"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=zaki-ramadhan&bg_color=282828&color=F8D866&line=F8D866&point=FFFFFF&hide_border=true" /></a>
+<a href="#" align="center"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=zaki-ramadhan&bg_color=282828&color=F8D866&line=F8D866&point=FFFFFF&hide_border=true" /></a>
 
 </details>
