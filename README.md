@@ -45,7 +45,7 @@ Excited to collaborate and bring innovative ideas to life—let’s build someth
 
 <h3 align="center">✍🏽 My Latest Projects </h3>
 <p align="center">
-  <a href="https://github.com/akbarryyan/rancanginid"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=akbarryyan&repo=rancanginid&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
+  <a href="https://github.com/zaki-ramadhan/DashLive"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=DashLive&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
   <a href="https://github.com/zaki-ramadhan/OrtuPintar-app"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=OrtuPintar-app&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
   <a href="https://github.com/zaki-ramadhan/webstore"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=webstore&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
 </p>
