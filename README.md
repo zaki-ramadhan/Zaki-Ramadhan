@@ -1,24 +1,31 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&duration=2000&pause=600&color=F7D600&multiline=true&width=435&height=68&lines=Code.+Design.+Repeat.+;Let%E2%80%99s+create+something+awesome!)](#)
 
-**`</> Web Developer | UI/UX Designer | Tech Enthusiast`** 
+**`</> Web Developer | Web Designer | UI Designer | Tech Enthusiast`** 
 
 <a href="#"><img align="left" width="155px" alt="pfp" src="https://i.postimg.cc/Ghv3tGkX/image-1.png" /></a>
 
-I’m a passionate Web Developer and UI/UX Designer with a love for building intuitive and visually compelling digital experiences. I thrive on transforming ideas into real products, focusing on both clean code and delightful user journeys.
+I’m a passionate Web Developer and UI Designer with a love for building intuitive and visually compelling digital experiences. I thrive on transforming ideas into real products, focusing on both clean code and delightful user journeys.
 
 With a keen eye for detail and a creative problem-solving approach, I enjoy building seamless interactions that connect design and technology. I’m always learning, exploring new tools, and pushing myself to create better solutions every day.
 
 Excited to collaborate and bring innovative ideas to life—let’s build something amazing together! 🚀
 
-<a href="https://www.linkedin.com/in/zaki-ramadhan/">
+<a href="https://www.linkedin.com/in/zaki-ramadhan">
   <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>  
+
+<a href="https://www.behance.net/zaki-ramadhan">
+  <img alt="Behance" title="Connect on Behance" src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>  
+
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zakiram4dhan@gmail.com">
   <img alt="Gmail" title="Send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://www.instagram.com/zqramadhan_">
   <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 
 ---
 <h3 align="center">⚒️ Technologies I Use</h3><br>
