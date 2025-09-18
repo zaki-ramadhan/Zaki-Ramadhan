@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&duration=2000&pause=600&color=F7D600&multiline=true&width=435&height=68&lines=Code.+Design.+Repeat.+;Let%E2%80%99s+create+something+awesome!)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&duration=2000&pause=600&color=F7D600&multiline=true&width=435&height=68&lines=Design,+Code,+Repeat.+;Let%E2%80%99s+build+something+awesome+🚀)](#)
 
-**`</> Web Developer | Web Designer | UI Designer | Tech Enthusiast`** 
+**`<> Web Developer | Web Designer | UI Designer | Tech Enthusiast </>`** 
 
 <a href="#"><img align="left" width="155px" alt="pfp" src="https://i.postimg.cc/Ghv3tGkX/image-1.png" /></a>
 
