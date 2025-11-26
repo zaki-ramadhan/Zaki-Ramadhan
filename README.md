@@ -50,19 +50,19 @@ Excited to collaborate and bring innovative ideas to life—let’s build someth
 
 <br>
 
-<h3 align="center">✍🏽 My Latest Projects </h3>
+<!-- <h3 align="center">✍🏽 My Latest Projects </h3>
 <p align="center">
   <a href="https://github.com/zaki-ramadhan/belajar_linked_in"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=belajar_linked_in&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
   <a href="https://github.com/zaki-ramadhan/paperloom"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=paperloom&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
   <a href="https://github.com/zaki-ramadhan/zappify"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=zappify&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
-</p>
+</p> -->
 
-<h3 align="center">🫱🏼‍🫲🏻 My Latest Collaborative Projects </h3>
+<!--<h3 align="center">🫱🏼‍🫲🏻 My Latest Collaborative Projects </h3>
 <p align="center">
   <a href="https://github.com/zaki-ramadhan/peer-note-sharing-platform"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=peer-note-sharing-platform&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
   <a href="https://github.com/zaki-ramadhan/OrtuPintar-app"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=OrtuPintar-app&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
   <a href="https://github.com/zaki-ramadhan/e-voting"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zaki-ramadhan&repo=e-voting&theme=react&bg_color=282828&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="latest-project"></a>
-</p>
+</p> -->
 
 <br>
 
