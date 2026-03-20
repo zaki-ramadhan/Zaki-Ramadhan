@@ -28,7 +28,7 @@ Excited to collaborate and bring innovative ideas to life—let’s build someth
 
 
 ---
-<h3 align="center">⚒️ Technologies I Use</h3><br>
+<h3 align="center">⚒️ Technologies & Tools I Use</h3><br>
 
 <p align="center">
   <a href="#">
