@@ -8,7 +8,7 @@ I’m a passionate Web Developer and UI Designer with a love for building intuit
 
 With a keen eye for detail and a creative problem-solving approach, I enjoy building seamless interactions that connect design and technology. I’m always learning, exploring new tools, and pushing myself to create better solutions every day.
 
-Excited to collaborate and bring innovative ideas to life—let’s build something amazing together! 🚀
+Excited to collaborate and bring innovative ideas to life. let’s build something amazing together! 
 
 <a href="https://www.linkedin.com/in/zaki-ramadhan">
   <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
