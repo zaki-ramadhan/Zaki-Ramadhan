@@ -32,13 +32,13 @@ Excited to collaborate and bring innovative ideas to life—let’s build someth
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=javascript,bootstrap,tailwind"/>
   </a>
 </p>
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=jquery,react,laravel,nodejs,flutter,mysql"/>
+    <img src="https://skillicons.dev/icons?i=react,laravel,nodejs,flutter,mysql,firebase"/>
   </a>
 </p>
 
